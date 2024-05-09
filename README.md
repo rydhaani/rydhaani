@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rydhaani
+- 👋 Hi, I’m @pomeray
 - 👀 I'm a media student who wishes to learn code.
 - 🌱 I just joined the Responsive Web Design Certification on FreeCodeCamp
 - 💞️ I would love it if someone could help me learn :)
